@@ -1,0 +1,1 @@
+{"uuid":"42ad8b24-3245-4fd9-a339-364d1e6197bb","name":"tests.form.SwipeTest","children":["9f11dcc0-2e7c-4113-997d-802bebe9d83c"],"befores":[{"name":"getTestParams","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1707017081929,"stop":1707017081929}],"afters":[],"start":1707017081830,"stop":1707017112585}

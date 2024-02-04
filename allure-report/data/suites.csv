@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jan 18 21:48:13 ICT 2024","Thu Jan 18 21:48:18 ICT 2024","5915","Regression","Authentication","tests.parallel.LoginTestDevice01","tests.parallel.LoginTestDevice01","testLogin","Login test","Login Test with data driven"
+"broken","Thu Jan 18 21:47:54 ICT 2024","Thu Jan 18 21:48:04 ICT 2024","10534","Regression","Authentication","tests.form.FormTest","tests.form.FormTest","testFormInput","testFormInput",""
+"passed","Thu Jan 18 21:48:18 ICT 2024","Thu Jan 18 21:48:23 ICT 2024","4769","Regression","Authentication","tests.parallel.LoginTestDevice01","tests.parallel.LoginTestDevice01","testLogin","Login test","Login Test with data driven"
+"passed","Thu Jan 18 21:48:05 ICT 2024","Thu Jan 18 21:48:13 ICT 2024","7079","Regression","Authentication","tests.parallel.LoginTestDevice01","tests.parallel.LoginTestDevice01","testLogin","Login test","Login Test with data driven"

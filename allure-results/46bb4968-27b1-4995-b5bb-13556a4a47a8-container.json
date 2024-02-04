@@ -1,0 +1,1 @@
+{"uuid":"46bb4968-27b1-4995-b5bb-13556a4a47a8","name":"tests.parallel.LoginTestDevice02","children":["8baa77c8-3443-401c-be16-0596197e58d5"],"befores":[{"name":"getTestParams","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1707016359907,"stop":1707016359907}],"afters":[],"start":1707016359767,"stop":1707016360296}
